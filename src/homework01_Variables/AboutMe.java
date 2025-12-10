@@ -1,4 +1,4 @@
-package FirstHomework;
+package homework01_Variables;
 
 public class AboutMe {
     /*Create a Java class named AboutMe that prints the following information about you in the console:

@@ -1,4 +1,4 @@
-package FirstHomework;
+package homework01_Variables;
 
 public class GasReceipt {
     /*Create a Java class named GasReceipt that prints the following outputs in the console:
