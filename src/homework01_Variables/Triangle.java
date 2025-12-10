@@ -1,4 +1,4 @@
-package FirstHomework;
+package homework01_Variables;
 
 public class Triangle {
     /*Create a Java class named Triangle that prints the following outputs in the console:

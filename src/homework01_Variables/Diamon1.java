@@ -1,4 +1,4 @@
-package FirstHomework;
+package homework01_Variables;
 
 public class Diamon1 {
   /* Create a Java class named Diamon1 that prints the following outputs in the console:

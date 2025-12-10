@@ -1,4 +1,4 @@
-package SecondHomework;
+package homework02_Variables;
 
 public class Birthday {
     public static void main(String[] args) {

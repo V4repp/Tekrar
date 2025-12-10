@@ -1,4 +1,4 @@
-package FirstHomework;
+package homework01_Variables;
 
 public class PrintExecution {
    /* Create a Java class named PrintExecution that prints the following outputs in the console:

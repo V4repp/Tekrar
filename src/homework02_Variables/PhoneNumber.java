@@ -1,4 +1,4 @@
-package SecondHomework;
+package homework02_Variables;
 
 public class PhoneNumber {
     public static void main(String[] args) {

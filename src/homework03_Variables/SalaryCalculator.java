@@ -1,4 +1,4 @@
-package ThirdHomework;
+package homework03_Variables;
 
 public class SalaryCalculator {
     public static void main(String[] args) {

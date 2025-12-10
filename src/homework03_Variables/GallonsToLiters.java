@@ -1,4 +1,4 @@
-package ThirdHomework;
+package homework03_Variables;
 
 import java.util.Scanner;
 

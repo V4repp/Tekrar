@@ -1,4 +1,4 @@
-package SecondHomework;
+package homework02_Variables;
 
 public class StudentInfo {/* Create a class named StudentInfo and write a program with the following requirements:
 
