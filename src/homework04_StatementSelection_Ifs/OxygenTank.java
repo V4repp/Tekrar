@@ -21,26 +21,26 @@ level (number), and you must print a message based on the level:
     //******************************* if *********************************
 
     public static void main(String[] args) {
-        int oxygenLevel = 0;
+        int oxygenLevel = -5;
 
-        if (100<oxygenLevel) {
-            System.out.println("Your tank is cannot more than %100.");
-        }else if (90<oxygenLevel){
+        if (100 < oxygenLevel) {
+            System.out.println("Your tank cannot be more than %100.");
+        } else if (90 < oxygenLevel) {
             System.out.println("Your tank is full.");
-        } else if (80<oxygenLevel) {
+        } else if (80 < oxygenLevel) {
             System.out.println("Still ok.");
-        } else if (70<oxygenLevel) {
+        } else if (70 < oxygenLevel) {
             System.out.println("Dont go too far.");
-        } else if (60<oxygenLevel) {
+        } else if (60 < oxygenLevel) {
             System.out.println("Start to head back.");
-        } else if (50==oxygenLevel) {
+        } else if (50 == oxygenLevel) {
             System.out.println("Be careful, you're at 50%.");
-        } else if (50<oxygenLevel) {
+        } else if (50 < oxygenLevel) {
             System.out.println("Come back your tank less than %50.");
-        } else if (oxygenLevel== 0) {
+        } else if (oxygenLevel == 0) {
             System.out.println("Your tank is empty.");
-        } else if (oxygenLevel<0) {
-            System.out.println("Your tank is cannot be less than 0.");
+        } else if (oxygenLevel < 0) {
+            System.out.println("Your tank cannot be less than 0.");
         }
 
     }
